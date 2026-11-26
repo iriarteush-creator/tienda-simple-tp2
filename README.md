@@ -1,15 +1,13 @@
-# TiendaSimple — TP2 Integrador (Tecnologías Web - UNL)
+# TiendaSimple — TP2 Integrador Fabricio Iriarte (Tecnologías Web - UNL)
 
 Proyecto integrador de la materia **Tecnologías Web** (Tecnicatura en Informática Aplicada al Diseño Multimedia y Sitios Web - FICH/UNL).
 
 ## Enlaces del proyecto
 
-> **Completar antes de comprimir la entrega final:**
-
-- **Frontend publicado:** `https://<tu-frontend>.netlify.app` (o Vercel)
-- **Endpoint del backend publicado:** `https://<tu-backend>.onrender.com/api/productos`
+- **Frontend publicado:** https://tienda-simple-tp2.netlify.app/
+- **Endpoint del backend publicado:** https://tienda-simple-tp2.onrender.com/api/productos
 - **Repositorio de GitHub:** https://github.com/iriarteush-creator/tienda-simple-tp2
-- **Tablero Kanban público:** `https://github.com/users/<tu-usuario>/projects/<numero>` (o enlace de Trello)
+- **Tablero Kanban público:** https://github.com/users/iriarteush-creator/projects/4/views/1
 
 ## Estructura del proyecto
 
