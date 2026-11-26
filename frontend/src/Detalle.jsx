@@ -20,6 +20,13 @@ function Detalle() {
 
   return (
     <section className="detalle-producto">
+      {producto.imagen && (
+        <img
+          src={producto.imagen}
+          alt={producto.nombre}
+          className="imagen-detalle"
+        />
+      )}
       <h1>{producto.nombre}</h1>
       <p className="codigo">Código de producto: #{producto.id}</p>
       <p className="precio-grande">${producto.precio}</p>

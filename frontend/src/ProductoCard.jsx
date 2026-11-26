@@ -5,6 +5,13 @@ import { Link } from 'react-router';
 function ProductoCard({ producto }) {
   return (
     <article className="tarjeta-producto">
+      {producto.imagen && (
+        <img
+          src={producto.imagen}
+          alt={producto.nombre}
+          className="imagen-producto"
+        />
+      )}
       <h2>{producto.nombre}</h2>
       <p className="precio">${producto.precio}</p>
       <p className="descripcion-breve">{producto.descripcion}</p>
